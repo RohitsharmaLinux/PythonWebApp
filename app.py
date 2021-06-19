@@ -4,5 +4,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Pushed to AZURE REPO"
+    return "Pushed to AZDoneURE REPO"
 
